@@ -1,0 +1,33 @@
+#result {
+	width: 25%;
+	height: 50px;
+	font-size: px;
+	padding: 10px;
+	margin-bottom: 10px;
+    border-radius: 15px;
+	background-color: aquamarine;
+ }
+ #result:hover{
+	background-color: pink;
+ }
+table {
+	
+	margin: 0 auto;
+}
+.container{
+    text-align: center;
+}
+button {
+	font-size: 20px;
+	width: 80px;
+	height: 80px;
+	margin: 5px;
+	background-color: skyblue;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: pink;
+}
